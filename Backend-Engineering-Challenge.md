@@ -1,35 +1,40 @@
 ## Back End Engineering Challenge
 
 ### Intro
-Thanks for your interest in ShaleApps!
+This engineering challenge is intended to showcase:
 
-This coding challenge will hopefully not test the limits of your skills, but rather just show us:
+ 1. How you develop solutions
+ 2. Your coding style with respect to best practices
+ 3. How you would structure a project
+ 4. What skills, talents, and diverse perspectives you can bring to bear at ShaleApps
 
- 1. How you solve problems
- 2. Your coding style
- 3. How you would structure a project 
+Please ensure all work is done only by yourself.
 
 ### Description
-Build a go (golang) server side application exposing an API for managing a to do list.  
-The API should allow adding, deleting, and viewing items.  Endpoints should accept and return JSON.  Don't worry about authentication.      
+Build a Go server side application exposing an API for managing a to do list. The API should consist of typical todo list functions. Endpoints should accept and return JSON. Don't worry about authentication.
 
-It should meet the following criteria:
+It should meet the following basic criteria:
  1. Utilize go's built in http server and handler interface
- 2. Store items in a database (Postgres, MySQL, SQLite, MongoDB, etc.)
+ 2. Store items in a database (Postgres is perferred, but feel free to use anything you are comfortable with)
  3. Be version controlled in a Git repository
  4. Have test coverage for core functionality
  5. Implement CI/CD for deploying application publicly
- 
+ 6. Be deployed somewhere online
+ 7. Include a README about your work  
+
 ### Resources
 * [Golang.org](https://www.golang.org)
 * [Golang's HTTP Package](https://golang.org/pkg/net/http/)
 * [Docker](https://www.docker.com)
 
 ### When You're Done
-Push your project to Github and email a link to devgroup@shaleapps.com.
+Push your project to Github, and send us the following:
+* Link to the Github repo
+* Link to the deployed project
+* Steps on how to test
 
 ### FAQ
-Q: Can I use an ORM?
 
-A: Yes, but it isn't required.
+#### Q: Can I use an ORM?
+**A:** Yes, but it is by no means required.
 
