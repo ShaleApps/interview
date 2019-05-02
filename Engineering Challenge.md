@@ -1,4 +1,4 @@
-# ShaleApps Engineering Challenge
+# Full Stack Engineering Challenge
 This engineering challenge is intended to showcase:
 
  1. How you develop solutions
