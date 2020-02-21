@@ -1,4 +1,4 @@
-## Hungry to be a Pioneer?
+## Be a Pioneer.
 We at ShaleApps aren’t an ordinary company. We are building a team of great minds with one common mission. We are a very mission-driven company focused on _“accelerating the evolution of mankind”_. Being part of a small company with a large mission like that can be pretty intense and isn’t a good alignment for everyone. However, the people we’ve hired who enjoy this challenge have told me they’ve grown immensely and have become better engineers, data scientists, and entrepreneurs as a result.
 
 ## Contents
