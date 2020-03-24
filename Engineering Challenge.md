@@ -6,7 +6,7 @@ This engineering challenge is intended to showcase:
  3. What skills, talents, and diverse perspectives you can bring to bear at ShaleApps
 
 ### Description
-Build an app for managing a to do list using Go, with a web client written using Angular. Don't worry about authentication.
+Build an app for managing a to do list using [Go](https://golang.org/), with a web client written using [Angular](https://angular.io/). Don't worry about authentication.
 
 It should meet the following basic criteria:
  1. Store items in any relational / sql database you are comfortable with
