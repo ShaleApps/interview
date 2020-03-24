@@ -21,10 +21,10 @@ __Please ensure all work is done by only you.__
 * [Docker](https://www.docker.com)
 
 ### When You're Done
-Push your project to Github, and send us the following:
+Push your project to Github, and send devgroup@shaleapps.com the following:
 * Link to the Github repo
 * Link to the deployed project
-* Steps on how to test / use as needed.
+* Any relevant steps on how to test/use as needed
 
 ### FAQ
 
