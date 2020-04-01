@@ -17,6 +17,10 @@ It should meet the following criteria:
  2. Be version controlled in a Git repository.
  3. Be deployed somewhere online. Preferably as a Docker container.
  4. Be built as if your teammates have to pick it up and work with it
+ 5. Be built for ease of integration
+
+ ##### Bonus
+ - Ability to bulk manage todos
 
 ### Resources
 * [Golang.org](https://www.golang.org)
