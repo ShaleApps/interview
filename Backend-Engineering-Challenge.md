@@ -7,7 +7,7 @@ This engineering challenge is intended to show:
  2. How you would structure a project
  3. What skills, talents, and diverse perspectives you can bring to bear at ShaleApps
 
-Please ensure all work is done only by yourself.
+Please ensure all work is done only by yourself. This challenge should only take you a few hours of focused effort. 
 
 ### Description
 Build a Go web service for managing a to do list. Don't worry about authentication. RESTful / GRPC is fine.
